@@ -1,6 +1,6 @@
 {
-  "version": "122",
-  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V122/BL_Dubbing_Pro_Setup.exe",
-  "sha256": "sha256:aa506dc403da90bc937a9962244ee4201a3d5e6745d76494abd8dc1caace7098",
-  "notes": "- RTX 50-series GPU support\n- Manual subtitle editor\n- Waveform in the timeline"
+  "version": "126",
+  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V126/BL_Dubbing_Pro_Setup.exe",
+  "sha256": "sha256:779a0bd3a008504310727d38587d3248b1c1a315ab7d8424d90f25339bf8cae3",
+  "notes": "- RTX 50-series GPU support\n- Manual subtitle editor\n- Waveform in the timeline\n -Fix bug on Auto generate subtitle"
 }
