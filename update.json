@@ -1,6 +1,6 @@
 {
-  "version": "133",
-  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V133/BL_Dubbing_Pro_Setup.exe",
-  "sha256": "sha256:fc00546f07165b2bf1ee03d8f0b94f801f3c27db4440efabbd5e3b59ec2da79f",
-  "notes": "- RTX 50-series GPU support\n- Manual subtitle editor\n- Waveform in the timeline\n -Fix bug on Auto generate subtitle\n -Downloader \n -Recap movie update"
+  "version": "134",
+  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V134/BL_Dubbing_Pro_Setup.exe",
+  "sha256": "sha256:b9ef8544d03119caaf9ba77c7822108ec0a36cfafe6ea23496dbbd49c3e4b09c",
+  "notes": "- Fix bug on Video Merger\n- Recap Detail level (brief → deep)\n- Waveform in the timeline\n -Fix bug on Auto generate subtitle\n -Downloader"
 }
