@@ -1,6 +1,6 @@
 {
   "version": "134",
   "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V134/BL_Dubbing_Pro_Setup.exe",
-  "sha256": "sha256:b9ef8544d03119caaf9ba77c7822108ec0a36cfafe6ea23496dbbd49c3e4b09c",
+  "sha256": "sha256:a6d92837861534ae23615e26802a460457ae6e230d02e9c5a6cdc819fb7284fe",
   "notes": "- Fix bug on Video Merger\n- Recap Detail level (brief → deep)\n- Waveform in the timeline\n -Fix bug on Auto generate subtitle\n -Downloader"
 }
