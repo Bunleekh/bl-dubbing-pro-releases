@@ -1,6 +1,6 @@
 {
-  "version": "134",
-  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V134/BL_Dubbing_Pro_Setup.exe",
-  "sha256": "sha256:a6d92837861534ae23615e26802a460457ae6e230d02e9c5a6cdc819fb7284fe",
-  "notes": "- Fix bug on Video Merger\n- Recap Detail level (brief → deep)\n- Waveform in the timeline\n -Fix bug on Auto generate subtitle\n -Downloader"
+  "version": "135",
+  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V135/BL_Dubbing_Pro_Setup.exe",
+  "sha256": "sha256:0a91a66f30d6fc60c7b20ba9a93865b45c9e07fc9755903a8ff60328621b7d6f",
+  "notes": "- បកប្រែប្រសើល្អជាងមុន"
 }
