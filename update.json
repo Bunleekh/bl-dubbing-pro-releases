@@ -1,6 +1,6 @@
 {
-  "version": "142",
-  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V142/BL_Dubbing_Pro_Setup.exe",
-  "sha256": "sha256:67c8f45f3951d03ef8f1f874b4b5b3895de7ca3843435e6bfd0e6346d8aa2908",
-  "notes": "- សំរាយបែបកប្លែង\n- សំរាយបែបអប់រុំ\n- ស្គាល់ភេទស្រីប្រុសដោយស្វ័យប្រវត្ត ពេលទាញ Subtitle file ចូល"
+  "version": "146",
+  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V146/BL_Dubbing_Pro_Setup.exe",
+  "sha256": "sha256:e9f6ddf8f23a22d565c7844bbce9d5f2b172c8e762e24d11fbb6e0f1e6c76afc",
+  "notes": "- fix bugs batch file rendering\n- Be able select multiple segments to move"
 }
