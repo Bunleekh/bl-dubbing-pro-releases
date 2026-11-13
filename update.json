@@ -1,6 +1,6 @@
 {
-  "version": "146",
-  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V180/BL_Dubbing_Pro_Setup.exe",
-  "sha256": "sha256:93dd77647e429bbeb449cc9b1d93425bcf42e59f524570327b07464402c89d35",
+  "version": "267",
+  "url": "https://github.com/Bunleekh/bl-dubbing-pro-releases/releases/download/V267/BL_Dubbing_Pro_Setup.exe",
+  "sha256": "sha256:0fc9bab02cccdccb91ae8b716dc7c7a3c45819f77f283e202185dd0ca9563f8e",
   "notes": "- fix bugs batch file rendering\n- Be able select multiple segments to move"
 }
